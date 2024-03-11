@@ -1,4 +1,4 @@
-Movie App
+##Movie App
 A movie app where you can list your favorite movies and store them in a MongoDB database. This project uses GraphQL for the API, Apollo Client for frontend-backend integration, and React for the frontend.
 
 Features
@@ -30,8 +30,8 @@ npm start
 
 Open your browser and navigate to http://localhost:3000 to view the app.
 
-Deployment
+#Deployment
 The frontend can be deployed to Vercel, Netlify, or any other static hosting service. The backend can be deployed to Heroku or any other platform that supports Node.js applications.
 
-Contributing
+#Contributing
 Contributions are welcome! Fork the repository and submit a pull request with your changes.
