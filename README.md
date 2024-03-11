@@ -1,4 +1,4 @@
-##Movie App
+#Movie App
 A movie app where you can list your favorite movies and store them in a MongoDB database. This project uses GraphQL for the API, Apollo Client for frontend-backend integration, and React for the frontend.
 
 Features
