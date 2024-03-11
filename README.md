@@ -17,12 +17,17 @@ Clone the repository:
 cd movie-app
 Install dependencies:
 npm install
+
 Start the frontend and backend servers:
 # Start the frontend
 npm start
+
+
 # Start the backend
 cd backend
 npm start
+
+
 Open your browser and navigate to http://localhost:3000 to view the app.
 
 Deployment
